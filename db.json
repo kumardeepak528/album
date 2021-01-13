@@ -48,7 +48,8 @@
 ],
         "message": "Album List"
     },
-  "images": {
+  "images": [
+{
 "id":"1",
         "status": true,
         "data": [
@@ -57,7 +58,9 @@
 }
 ],
         "message": "Album List"
-    },
+    }
+
+],
 "test":[
 "Running"
 ]
